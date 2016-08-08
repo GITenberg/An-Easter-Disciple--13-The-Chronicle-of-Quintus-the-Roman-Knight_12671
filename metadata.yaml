@@ -1,0 +1,22 @@
+_repo: An-Easter-Disciple--13-The-Chronicle-of-Quintus-the-Roman-Knight_12671
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanford, Arthur Benton
+    gutenberg_agent_id: '4492'
+    url: http://www.gutenberg.org/2009/agents/4492
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Easter stories'
+- !lcc 'PS'
+- GITenberg
+title: 'An Easter Disciple: The Chronicle of Quintus, the Roman Knight'
+url: http://www.gutenberg.org/ebooks/12671
