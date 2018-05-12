@@ -1,11 +1,16 @@
 _repo: An-Easter-Disciple--13-The-Chronicle-of-Quintus-the-Roman-Knight_12671
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sanford, Arthur Benton
     gutenberg_agent_id: '4492'
     url: http://www.gutenberg.org/2009/agents/4492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12671#An-Easter-Disciple--13-The-Chronicle-of-Quintus-the-Roman-Knight
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
